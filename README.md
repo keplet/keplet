@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @keplet SAINTIL I'm a Salesforce Consultant
 - 👀 I’m interested in Cloud Computing and CRM
-- 🌱 I’m currently learning Salesforce development (Apex language), Java and Cloud Native Fundamentals.
-- 💞️ I’m looking to collaborate on defferent projects that will help me improve my skills.
+- 🌱 I’m currently learning Salesforce development (Apex language), Java, and Cloud Native Fundamentals.
+- 💞️ I’m looking to collaborate on different projects that will help me improve my skills.
 - 📫 How to reach me (www.linkedin.com/in/kepletsaintil or https://wa.me/18298747582)
 
 <!---
